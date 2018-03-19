@@ -1,0 +1,25 @@
+/* CSS declarations go here */
+
+body {
+  font-family: Verdana, sans-serif;
+  background-color: #efefef;
+  font-size: 14px;
+}
+.container {
+  background-color: #afb285;
+  max-width: 600px;
+  margin: 0 auto;
+  min-height: 100%;
+  padding: 20px;
+  margin-top: 15px;
+}
+
+h1 {
+  font-size: 1.5em;
+}
+h2 {
+  font-size: 1.2em;
+  border-bottom: 1px solid black;
+}
+
+
